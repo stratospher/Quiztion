@@ -98,7 +98,7 @@ function Dashboard() {
       <div>
         <h1
           className={styles.heading}
-          style={{ background: "white", fontSize: "2em", padding: "2%" }}
+          style={{ background: "light", fontSize: "2em", padding: "2%" , fontFamily: "cursive"}}
         >
           Welcome {localStorage.getItem("name")}
         </h1>

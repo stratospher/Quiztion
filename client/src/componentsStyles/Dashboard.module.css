@@ -8,6 +8,9 @@
 .heading {
   text-align: center;
 }
+h1{
+  color: rgb(55, 0, 128);
+}
 .testcontainer {
   display: flex;
   flex-direction: column;
@@ -15,6 +18,10 @@
   text-align: justify;
   width: 80vw;
 
+}
+label{
+  font-weight: bold ;
+  color:  darkcyan;
 }
 
 .buttons {
@@ -26,4 +33,7 @@
   padding: 1% 1%;
   display: block;
   color: white;
+}
+.resultstyle.row{
+  color: blue;
 }
