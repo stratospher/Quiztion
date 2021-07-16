@@ -3,6 +3,7 @@
   box-sizing: border-box;
 
   margin: 0 auto;
+  
 }
 .heading {
   text-align: center;
@@ -13,6 +14,7 @@
   justify-content: space-around;
   text-align: justify;
   width: 80vw;
+
 }
 
 .buttons {

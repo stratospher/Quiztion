@@ -35,8 +35,10 @@ function Taketest() {
 
   return (
     <div className={styles.parent}>
+      <h1>Quiztion</h1>
+      <p>It's fun, we promise!</p>
       <div className={styles.taketest}>
-        <h1 className={styles.heading}>Take Test</h1>
+        <h2 className={styles.heading}>Take Test</h2>
         <br />
         <form onSubmit={submithandler}>
           <label className={styles.labels} htmlFor="name">
