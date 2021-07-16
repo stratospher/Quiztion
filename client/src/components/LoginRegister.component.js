@@ -9,8 +9,6 @@ function LoginRegister(props) {
   if (localStorage.getItem("loggedin")) history.push("/");
   return (
         <div className={styles.container}>
-              <h1>Quiztion</h1>
-              <p>It's fun, we promise!</p>
       <Login {...props} />
       <Register />
     </div>

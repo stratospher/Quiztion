@@ -8,20 +8,7 @@
 .heading {
   text-align: center;
 }
-h1, p{
-  text-align: center;
-}
 
-h1{
-  font-size: 30px;
-  font-family:Verdana, Geneva, Tahoma, sans-serif;
-}
-p{
-  padding-top: 20px;
-  padding-bottom: 30px;
-  font-family: cursive;
-  font-size: 20px;
-}
 body {
   background: #f1f1f1;
   background-image: url("../componentsStyles/bg2.jpg");
